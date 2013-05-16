@@ -46,7 +46,7 @@ group :test do
   gem "turnip"
   gem "capybara"
   gem "database_cleaner"
-  gem "capybara-webkit", "0.7.1"
+  gem "capybara"
   gem "factory_girl_rails"
   gem "bourne"
   gem "timecop"

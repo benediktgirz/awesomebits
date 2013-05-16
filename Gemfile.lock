@@ -55,8 +55,6 @@ GEM
       rack-test (>= 0.5.4)
       selenium-webdriver (~> 2.0)
       xpath (~> 0.1.4)
-    capybara-webkit (0.7.1)
-      capybara (>= 1.0.0, < 1.2)
     childprocess (0.3.2)
       ffi (~> 1.0.6)
     clearance (0.16.2)
@@ -296,7 +294,6 @@ DEPENDENCIES
   bourbon (~> 1.4.0)
   bourne
   capybara
-  capybara-webkit (= 0.7.1)
   clearance (~> 0.16.2)
   coffee-rails
   copycopter_client
